@@ -1,1 +1,1 @@
-# This is my practice reositiory where I'll be learning from my mistakes.
+# This is my practice repository where I'll be learning from my mistakes.s
